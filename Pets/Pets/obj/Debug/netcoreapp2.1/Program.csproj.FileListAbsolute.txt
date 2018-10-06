@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Pets\Pets\Pets\obj\Debug\netcoreapp2.1\Program.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Pets\Pets\Pets\obj\Debug\netcoreapp2.1\Program.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Pets\Pets\Pets\obj\Debug\netcoreapp2.1\Program.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Pets\Pets\Pets\obj\Debug\netcoreapp2.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Pets\Pets\Pets\obj\Debug\netcoreapp2.1\Program.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Pets\Pets\Pets\obj\Debug\netcoreapp2.1\Program.AssemblyInfo.cs
