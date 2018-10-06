@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Pets
+namespace Program
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Pet pet1 = new Pet("dog", "Shadow", "Jose", 42.6);
+            Pets pet1 = new Pets("dog", "Shadow", "Jose", 42.6);
 
             Console.WriteLine("Name: " + pet1.name);
             Console.WriteLine("Weight: " + pet1.weight);
@@ -30,7 +30,7 @@ namespace Pets
             Console.WriteLine(cat1.getTag());
             Console.WriteLine(cat1.meow(3));
 
-            Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("Dog Bless, Press any key to exit.");
             Console.ReadKey();
         }
     }

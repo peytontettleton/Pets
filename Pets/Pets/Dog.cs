@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Program
 {
-    class Dog
+    class Dog : Pets
     {
         public Dog(string name, string owner, double weight)
-       :base(name, owner, weight)
+       :base(string.Empty, name, owner, weight)
         {
         this.name = name;
         this.owner = owner;
