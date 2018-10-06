@@ -10,6 +10,7 @@ namespace Program
         public string name { set; get; }
         public string owner { set; get; }
         public double weight { set; get; }
+
         public Pet(string type, string name, string owner, double weight)
         {
             this.type = type;
@@ -22,4 +23,5 @@ namespace Program
         {
             return "If lost, call" + this.owner + ".";
         }
+    }
 }

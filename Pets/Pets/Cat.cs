@@ -7,9 +7,7 @@ namespace Program
     class Cat
     {
         public Cat(string name, string owner, double weight)
-        string.Empty(name);
-        string.Empty(owner);
-        string.Empty(weight);
+    :  base(name, owner, weight)
         {
         this.name = name;
         this.owner = owner;
